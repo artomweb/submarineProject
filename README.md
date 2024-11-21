@@ -5,6 +5,9 @@ It draws water into a syringe to become more dense and sink, then expels it to r
 I designed and animated the parts in Blender which were then 3D printed.
 ![alt text](outputC.gif)
 
-<video controls src="upAndDownss.mp4" title="Title" style="width: 50%;"></video>
+
+https://github.com/user-attachments/assets/2641968b-8f82-4f2d-8a47-347287db05a1
+
+
 
 (2x speed)
