@@ -2,7 +2,7 @@ This is a submarine model that I designed for University project, we had only on
 
 It draws water into a syringe to become more dense and sink, then expels it to rise to the surface.
 
-I designed and animated the parts in Blender which were then 3D printed. The hull is an acrylic tube which is capped at either end.
+I designed and animated the parts in Blender which were then 3D printed. The hull is an acrylic tube which is capped at either end. The syringe has a 27.8mm diameter.
 ![alt text](outputC.gif)
 
 
